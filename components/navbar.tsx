@@ -295,7 +295,7 @@ export function Navbar({ activeSection }: NavbarProps) {
                     <div className="flex items-cetner gap-1">
                       <div className="flex items-center gap-2">
                       <a
-                        href="https://www.instagram.com/teach_firstbyte"
+                        href="https://www.instagram.com/teachfirstbyte"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-foreground/80 hover:text-primary transition-colors"
@@ -512,7 +512,7 @@ export function Navbar({ activeSection }: NavbarProps) {
                 
                 <div className="flex items-center gap-3">
                   <a
-                    href="https://www.instagram.com/teach_firstbyte"
+                    href="https://www.instagram.com/teachfirstbyte"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-foreground/80 hover:text-primary transition-colors"

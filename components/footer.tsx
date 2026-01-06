@@ -84,7 +84,7 @@ export function Footer() {
             </p>
             <div className="flex space-x-6">
               <motion.a 
-                href="https://www.instagram.com/teach_firstbyte" 
+                href="https://www.instagram.com/teachfirstbyte" 
                 target="_blank" 
                 className="text-foreground/80 hover:text-primary transition-colors"
                 whileHover={{ scale: 1.1 }}
