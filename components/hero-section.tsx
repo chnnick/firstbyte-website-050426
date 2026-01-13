@@ -189,7 +189,7 @@ export const HeroSection = forwardRef<HTMLElement, HeroSectionProps>(
                         </AnimatedGlowButton>
                         <AnimatedGlowButton 
                         color="light green" 
-                        href="https://docs.google.com/forms/d/e/1FAIpQLSf1BCJAfHPWxypcqdFvHBKm5jYJcnTFwrbj2l_RCfskubxOmA/viewform?usp=sharing" 
+                        href="https://forms.gle/irVdK37HQa6gGHZM9" 
                         className="group text-xs sm:text-sm inline-flex"
                         >
                         Join Us{" "}

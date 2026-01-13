@@ -376,7 +376,7 @@ export function Navbar({ activeSection }: NavbarProps) {
                   <HighlighterItem>
                     <AnimatedGlowButton 
                       color="green"
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSf1BCJAfHPWxypcqdFvHBKm5jYJcnTFwrbj2l_RCfskubxOmA/viewform?usp=sharing"
+                    href="https://forms.gle/irVdK37HQa6gGHZM9"
                       className="py-1.5 px-3 text-sm"
                     >
                       Get Involved
@@ -561,7 +561,7 @@ export function Navbar({ activeSection }: NavbarProps) {
                   </a>
                   <AnimatedGlowButton 
                     color="green"
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSf1BCJAfHPWxypcqdFvHBKm5jYJcnTFwrbj2l_RCfskubxOmA/viewform?usp=sharing"
+                    href="https://forms.gle/irVdK37HQa6gGHZM9"
                     className="py-1 px-2 text-xs"
                     onClick={() => setIsMenuOpen(false)}
                   >
